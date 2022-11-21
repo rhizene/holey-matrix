@@ -1,0 +1,10 @@
+
+tip {
+    font-size: 0.5em;
+    padding: 0.2em;
+    border: 1px solid;
+    border-radius: 25%;
+    display: inline;
+    cursor: help;
+    vertical-align: text-top;
+}
