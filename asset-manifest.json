@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/holey-matrix/static/css/main.54b11b6a.css",
+    "main.js": "/holey-matrix/static/js/main.ceefb513.js",
+    "static/js/787.577f4bff.chunk.js": "/holey-matrix/static/js/787.577f4bff.chunk.js",
+    "static/media/logo.svg": "/holey-matrix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/holey-matrix/index.html",
+    "main.54b11b6a.css.map": "/holey-matrix/static/css/main.54b11b6a.css.map",
+    "main.ceefb513.js.map": "/holey-matrix/static/js/main.ceefb513.js.map",
+    "787.577f4bff.chunk.js.map": "/holey-matrix/static/js/787.577f4bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b11b6a.css",
+    "static/js/main.ceefb513.js"
+  ]
+}
